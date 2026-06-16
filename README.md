@@ -1,1 +1,1 @@
-Aplikasi link generator otomats yang dibuat oleh L Setyawan
+Aplikasi link generator otomatis yang dibuat oleh L Setyawan
