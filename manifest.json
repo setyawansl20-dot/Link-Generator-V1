@@ -1,0 +1,22 @@
+{
+  "name": "Link Generator Otomatis",
+  "short_name": "LinkGen",
+  "description": "Aplikasi link generator otomatis oleh L Setyawan",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a73e8",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.jpg",
+      "type": "image/jpeg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512"
+    }
+  ]
+}
